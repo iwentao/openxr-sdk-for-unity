@@ -1,6 +1,8 @@
 # openxr-sdk-for-unity
 OpenXR SDK for Unity
 
+/Docs/images/oxr_for_unity.png
+
 The goal for this repo is to wrap KHR OpenXR loader in a Unity plugin to make XR Apps work on Pico, Quest and other OpenXR compliant devices.
 I'll wrap features like Pass through, Hand Tracking, Perf level, etc to Unity plugin.
 
